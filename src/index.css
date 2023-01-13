@@ -39,7 +39,7 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    opacity: 0.8;
+    opacity: .95;
     background-image: linear-gradient(45deg, var(--color-bg) 50%, var(--color-bg-variant) 50%);
     background-size: 8px 8px;
 }
@@ -64,6 +64,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2, 
