@@ -29,6 +29,7 @@ const data = [
   }
 ]
 
+// Maybe add some coding challenge problems if you plan to make those, just solve and make a UI so people can use it.
 const Portfolio = () => {
   return (
     <section id='portfolio'>
