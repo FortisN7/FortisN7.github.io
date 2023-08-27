@@ -3,29 +3,45 @@ import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
+import IMG4 from '../../assets/portfolio4.jpg'
+import IMG5 from '../../assets/portfolio5.png'
 
 /*Creates the ability to add and change projects*/
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Banking Website',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/'
+    title: 'Simple Perl-Like Programming Language',
+    github: 'https://github.com/FortisN7/CS280-016',
+    demo: ''
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Nonogram',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/'
+    title: 'E-Commerce Site',
+    github: 'https://github.com/FortisN7/IT202-008',
+    demo: 'https://nff4-prod-it202.herokuapp.com/project/shop.php'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Connect4',
-    github: 'https://github.com/',
-    demo: 'https://dribbble.com/'
+    title: 'Connect4 Game',
+    github: 'https://github.com/FortisN7/Connect4-Game',
+    demo: 'https://studio.code.org/projects/applab/pc6ZZpdFVBmJuMnsmkHA7kcf0LGDNdM90SGyfcKMenI'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Housing Price Prediction Model',
+    github: 'https://github.com/FortisN7/Interpretable-Gradient-Boosting',
+    demo: 'https://sites.google.com/njit.edu/house-pred-lightgbm-model/'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Simple Square HTML5 Canvas Game',
+    github: 'https://github.com/FortisN7/IT202-008/tree/prod/public_html/M6',
+    demo: 'https://nff4-prod-it202.herokuapp.com/M6/html5.html'
   }
 ]
 

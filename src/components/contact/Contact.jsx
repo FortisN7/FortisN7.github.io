@@ -46,8 +46,8 @@ const Contact = () => {
           <article className="contact__option">
             <FaDiscord className='contact__option-icon' />
             <h4>Discord</h4>
-            <h5>Bladeh#1360</h5>
-            <a href="https://discord.gg/sbPFbJWz" target='_blank' rel='noreferrer'>Add me on Discord</a>
+            <h5>@Bladehhh</h5>
+            <a href="https://discord.com/channels/@me" target='_blank' rel='noreferrer'>Add me on Discord</a>
           </article>
         </div>
         {/*END OF CONTACT OPTIONS*/}

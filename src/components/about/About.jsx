@@ -24,13 +24,13 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon' />
               <h5>GPA</h5>
-              <small>3.955/4.000</small>
+              <small>3.92/4.00</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h5>Experience</h5>
-              <small>6+ Years Learning</small>
+              <small>7+ Years Learning</small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +40,15 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Error a optio numquam minima voluptates quisquam, aut assumenda eum, sit laboriosam commodi tempora provident sunt nisi? Quae assumenda quasi dolorum tempore.
+          I'm a junior computer science student at the New Jersey Institute of 
+          Technology and Albert Dorman Honors College. I am very interested in 
+          working for your company! A little about me, I have extensive 
+          programming knowledge in Python, Java, Javascript, and C++, and I have created 
+          many projects that can be seen below. I participate in a bunch of 
+          extracurricular activities at NJIT like volleyball club, bowling team, 
+          and esports club, to create a place where others want to be. These 
+          experiences would make me a great candidate for you because I think I 
+          embody what a company looks for when hiring a software engineering intern.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
