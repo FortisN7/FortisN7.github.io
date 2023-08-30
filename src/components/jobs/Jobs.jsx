@@ -1,5 +1,7 @@
 import React from 'react'
 import './jobs.css'
+import castawayIMG from '../../assets/castaway_cove_logo.png'
+import internshipIMG from '../../assets/internship_logo.png'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -25,7 +27,7 @@ const Jobs = () => {
       pagination={{ clickable: true }}>
         <SwiperSlide className="job">
           <div className="job__img">
-            <img src="" alt="" />
+            <img src={castawayIMG} alt="castawayIMG" />
           </div>
           <h5 className='job__name'>Playland's Castaway Cove</h5>
           <small className='job__description'>
@@ -38,7 +40,7 @@ const Jobs = () => {
 
         <SwiperSlide className="job">
           <div className="job__img">
-            <img src="" alt="" />
+            <img src={internshipIMG} alt="internshipIMG" />
           </div>
           <h5 className='job__name'>First Internship</h5>
           <small className='job__description'>
