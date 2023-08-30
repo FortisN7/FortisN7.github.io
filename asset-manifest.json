@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d4d1c43.css",
+    "main.js": "/static/js/main.fe2775cd.js",
+    "static/media/me-gaming.jpg": "/static/media/me-gaming.afd866ca5cc4605feb65.jpg",
+    "static/media/castaway_cove_logo.png": "/static/media/castaway_cove_logo.0464f08248773bd744c9.png",
+    "static/media/portfolio6.png": "/static/media/portfolio6.97fe03ebaef9c8c7ea6d.png",
+    "static/media/profilepicture.png": "/static/media/profilepicture.66ed6000f13ed88ab7fa.png",
+    "static/media/portfolio2.png": "/static/media/portfolio2.de9b61b05bbf9ad97a8c.png",
+    "static/media/portfolio3.png": "/static/media/portfolio3.afc975ccebc53940f40c.png",
+    "static/media/portfolio1.png": "/static/media/portfolio1.3f4f0ce824f0b4472d61.png",
+    "static/media/portfolio4.png": "/static/media/portfolio4.224e5f04516fb98b23ed.png",
+    "static/media/RESUME.pdf": "/static/media/RESUME.6400481aae29a46dbc6f.pdf",
+    "static/media/portfolio5.png": "/static/media/portfolio5.039a5464b09ac67fff36.png",
+    "index.html": "/index.html",
+    "main.8d4d1c43.css.map": "/static/css/main.8d4d1c43.css.map",
+    "main.fe2775cd.js.map": "/static/js/main.fe2775cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d4d1c43.css",
+    "static/js/main.fe2775cd.js"
+  ]
+}
